@@ -1,12 +1,12 @@
 # greenwood-library-website
 
-This is a CapStone project to enhancing a community library website. This project test the understanding on the use of Git/Github. Below are some of the tools use in this project.
+This is a Capstone project to enhance a community library website. This project tests the understanding of the use of Git/GitHub. Below are some of the tools used in this project.
 
 ## **Tools:**
 
 + __Git:__ Version control system.
 + __Github:__ Remote repository that manage collaboration.
-+ __MobaXterm:__ Windows Terminal that runs Git command.
++ __MobaXterm:__ A Windows terminal that runs Git commands.
 + __Visual Studio code:__ IDE for writing code.
 + __Markdown:__ For creating structured documentation.
 + __Snipaste:__ For taking screenshots.
@@ -19,7 +19,7 @@ This is a CapStone project to enhancing a community library website. This projec
 + Create pull requests and merge them after resolving any potential conflicts.
 
 ```
-The following provide practical application of the tools use to accomplish the objctives above.
+The following provide practical applications of the tools used to accomplish the objctives above.
 ```
 
 #### **Setup**
@@ -62,7 +62,7 @@ The following provide practical application of the tools use to accomplish the o
 
 ![push](./img/img%208%20-%20git-push.png)
 
-> 4. Simulation of the team existing code base for the website
+> 4. Simulation of the team's existing code base for the website
 
 ![existing code base](./img/img%209%20-%20github-repo.png)
 
