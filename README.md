@@ -65,3 +65,32 @@ The following provide practical application of the tools use to accomplish the o
 > 4. Simulation of the team existing code base for the website
 
 ![existing code base](./img/img%209%20-%20github-repo.png)
+
+### Morgan's Work: Adding book reviews
+
+__Steps__
+
+1. Create and switch to a new branch - add-book-reviews
+2. Add a new file book_reviews.html.
+3. Add random content on the file.
+4. Stage, commit and push to the remote branch.
+5. Create a pull request.
+6. Merge the branch.
+
+### 1. Create and switch to a new branch
+![creat-branch](./img/img%2010%20-%20creaate-branch.png)
+
+### 2. Add a new file book_reviews.html
+![add-file](./img/img%2011%20-%20add-book-review.png)
+
+### 3. Stage and commit changes
+![stage-commit](./img/img%2012%20-%20staging-commit.png)
+
+### 4. Create a pull request
+![push](./img/img%2013%20-%20push-branch.png)
+![create-pull-request](./img/img%2014%20-%20create-pull-request.png)
+
+### 5. Merge the branch
+![merge](./img/img%2015%20-%20merge-pull-request.png)
+
+![merged-pull-request](./img/img%2016%20-%20pull-request-merged.png)
