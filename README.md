@@ -125,3 +125,5 @@ __Steps__
 
 ### 5. Merge the branch
 ![open-branch](./img/img%2020%20-%20open-pull-request.png)
+
+![merged](./img/img%2021%20-%20merge-jamies-work.png)
