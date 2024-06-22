@@ -57,5 +57,11 @@ The following provide practical application of the tools use to accomplish the o
 > 3. Stage, commit and push the changes directly to the main branch.
 
 ![stage](./img/img%206%20-%20git-staging.png)
+
 ![commit](./img/img%207%20-%20commit-stage.png)
+
 ![push](./img/img%208%20-%20git-push.png)
+
+> 4. Simulation of the team existing code base for the website
+
+![existing code base](./img/img%209%20-%20github-repo.png)
