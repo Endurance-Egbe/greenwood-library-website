@@ -65,3 +65,23 @@ The following provide practical application of the tools use to accomplish the o
 > 4. Simulation of the team existing code base for the website
 
 ![existing code base](./img/img%209%20-%20github-repo.png)
+
+
+## Jamie's Work: Updating events page
+
+__Steps__
+
+1. Create and switch to a new branch - update-events
+2. update event.html file.
+3. Add random content on the file.
+4. Stage, commit and push to the remote branch.
+5. Create a pull request.
+6. Merge the branch.
+
+### 1. Create and switch to a new branch
+
+![jamies-branch](./img/img%2016%20-%20jamies-branch.png)
+
+### 2. update event.html file
+
+![update-event](./img/img%2017%20-%20update-event.png)
