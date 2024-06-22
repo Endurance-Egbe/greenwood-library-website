@@ -78,6 +78,7 @@ __Steps__
 6. Merge the branch.
 
 ### 1. Create and switch to a new branch
+
 ![creat-branch](./img/img%2010%20-%20creaate-branch.png)
 
 ### 2. Add a new file book_reviews.html
@@ -94,3 +95,35 @@ __Steps__
 ![merge](./img/img%2015%20-%20merge-pull-request.png)
 
 ![merged-pull-request](./img/img%2016%20-%20pull-request-merged.png)
+
+## Jamie's Work: Updating events page
+
+__Steps__
+
+1. Create and switch to a new branch - update-events
+2. update event.html file.
+3. 3. Add random content on the file.
+4. Stage, commit and push to the remote branch.
+5. Create a pull request.
+6. Merge the branch.
+
+### 1. Create and switch to a new branch
+
+![jamies-branch](./img/img%2016%20-%20jamies-branch.png)
+
+### 2. update event.html file
+
+![update-event](./img/img%2017%20-%20update-event.png)
+
+### 3. Stage, commit and push to the remote branch
+
+![stage](./img/img%2018%20-%20git-push-event.png)
+
+### 4. Create a pull request
+
+![pull-request](./img/img%2019%20-%20event-pull-request.png)
+
+### 5. Merge the branch
+![open-branch](./img/img%2020%20-%20open-pull-request.png)
+
+![merged](./img/img%2021%20-%20merge-jamies-work.png)
