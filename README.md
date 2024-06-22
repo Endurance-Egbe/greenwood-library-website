@@ -2,7 +2,7 @@
 
 This is a CapStone project to enhancing a community library website. This project test the understanding on the use of Git/Github. Below are some of the tools use in this project.
 
-#### **Tools:**
+## **Tools:**
 
 + __Git:__ Version control system.
 + __Github:__ Remote repository that manage collaboration.
@@ -12,7 +12,7 @@ This is a CapStone project to enhancing a community library website. This projec
 + __Snipaste:__ For taking screenshots.
 
 
-#### **Objectives:**
+## **Objectives:**
 
 + Practice cloning a repository and working with branches in Git.
 + Gain experience in staging, committing, and pusdhing changes from both developers.
@@ -66,7 +66,7 @@ The following provide practical application of the tools use to accomplish the o
 
 ![existing code base](./img/img%209%20-%20github-repo.png)
 
-### Morgan's Work: Adding book reviews
+## Morgan's Work: Adding book reviews
 
 __Steps__
 
