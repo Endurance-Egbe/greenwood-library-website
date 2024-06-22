@@ -85,3 +85,14 @@ __Steps__
 ### 2. update event.html file
 
 ![update-event](./img/img%2017%20-%20update-event.png)
+
+### 3. Stage, commit and push to the remote branch
+
+![stage](./img/img%2018%20-%20git-push-event.png)
+
+### 4. Create a pull request
+
+![pull-request](./img/img%2019%20-%20event-pull-request.png)
+
+### 5. Merge the branch
+![open-branch](./img/img%2020%20-%20open-pull-request.png)
